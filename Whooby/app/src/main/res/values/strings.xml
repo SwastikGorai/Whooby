@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Whooby</string>
+    <string name="speak">SPEAK</string>
 </resources>
